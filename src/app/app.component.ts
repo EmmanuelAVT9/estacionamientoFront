@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'estacionamienton1';
+  img = './assets/egor-myznik-rCZQCbUAQvg-unsplash.jpg';
 }
